@@ -1,0 +1,21 @@
+.Level_button{
+  background-color: rgb(198, 112, 0);
+  width: 150px;
+  height: 50px;
+  margin-left: 45%;
+  margin-top: 25%;
+  border-radius: 10px;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+
+
+}
+
+.Level_button2{
+    background-color: rgb(198, 112, 0);
+    width: 150px;
+    height: 50px;
+    margin-left: 45%;
+    margin-top: 25px;
+    border-radius: 10px;
+     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}

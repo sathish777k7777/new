@@ -1,0 +1,16 @@
+.menu_button{
+    margin-left: 1000px;
+}
+ 
+ .level_button{
+    display: flex;
+    
+}
+.Menu_icon{
+    display: none;
+    position: fixed;
+    left: 50%;
+    color: red;
+    top:30%;
+    
+}
